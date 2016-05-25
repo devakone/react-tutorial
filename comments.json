@@ -1,12 +1,17 @@
 [
     {
         "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "author": "Abou Kone",
+        "text": "Learning React!"
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "Fifion Ribanna",
+        "text": "React is quite *interesting*!"
+    },
+    {
+        "id": 1464199857295,
+        "author": "Col",
+        "text": "dsfsdfsdfsdfsdfds"
     }
 ]
